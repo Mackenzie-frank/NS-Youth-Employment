@@ -15,3 +15,5 @@ This project examines a policy tradeoff facing the Nova Scotia Department of Lab
 
 **CLD Explanation:**  
 The causal loop diagram illustrates two competing approaches to youth employment policy. Investments in student co-op programs form a reinforcing loop by increasing graduate work experience, employer willingness to hire, and long-term employment outcomes. In contrast, early-career wage subsidies create a balancing loop that reduces youth unemployment by lowering hiring costs for employers.
+
+https://github.com/Mackenzie-frank/NS-Youth-Employment.git
