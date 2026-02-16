@@ -5,6 +5,9 @@
 ## Decision Statement
 Should the Nova Scotia Department of Labour focus youth employment resources on early-career wage subsidies for recent graduates, or on investments in student co-op and work-integrated learning programs, to improve long-term youth employment outcomes?
 
+> [!TIP]
+> Love this but it's ambitious, it's ok to pair down or pivot if you can't find the data.  See background for a link I found.
+
 ## Executive Summary
 Youth unemployment and underemployment remain persistent challenges in Nova Scotia, particularly for young people transitioning from education into the labour market. Employers frequently cite a lack of work experience as a barrier to hiring recent graduates, while graduates struggle to secure meaningful employment without prior exposure to workplace environments. In response, governments have implemented a range of youth employment supports, including wage subsidies for recent graduates and investments in student co-op and work-integrated learning (WIL) programs.
 

@@ -50,3 +50,8 @@ Employment and Social Development Canada. (n.d.). Youth Employment and Skills St
 
 - Post-secondary co-op and graduate employment outcomes (Statistics Canada)  
   https://www150.statcan.gc.ca/
+
+
+> [!TIP]
+> This url https://www150.statcan.gc.ca/n1/pub/36-28-0001/2021006/article/00005-eng.htm hints at open data called "Postsecondary Student Information System and Longitudinal Worker File" but I couldn't find it.  This might be tough to get data on releated to successes on co-op vs other.  Jane MacDonald might have something she can share.
+> 
